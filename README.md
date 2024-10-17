@@ -4,7 +4,7 @@ For hundreds and thousands of concurrency co-routines, there are two different t
 
 #1 Gather: push n co-routine with fork and joint pattern, which is available in Python [asyncio.gather].
 
-#2 Use limited m-co-Routine and keep using them all the time. When one worker/co-routine completes the job, proceed with
+#2 Use limited m-co-routine and keep using them all the time. When one worker/co-routine completes the job, proceed with
 the same co-routine, and run the next job.
 
 For concurrency level technique #1, the level is n or zero. When n is completed, the next n starts with a new co-routines.
