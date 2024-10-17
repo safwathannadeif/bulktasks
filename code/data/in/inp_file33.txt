@@ -1,0 +1,4 @@
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file33.txt 
+Time:15/10/2024 17:57:02 
+content:IQCWOOBBXRDLYGGCVHUVYGQBFMLETGXGKBKGZUNEESBGNPEWQJJENTDAOWXNVDCDSDNMAW 
+Elapsed Time:0.00014

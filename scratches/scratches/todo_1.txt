@@ -1,0 +1,101 @@
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_navbar_icon
+infinite-scroll:
+https://www.photondesigner.com/articles/infinite-scroll-htmx-django     -1
+https://htmx.org/examples/infinite-scroll/                              -2
+----------------------------------------------------------------------------------------
+https://marknotfound.com/posts/building-rundash-django-htmx/
+https://www.photondesigner.com/articles/infinite-scroll-htmx-django#3-update-urls
+https://medium.com/@franciscovcbm/infinite-scroll-with-django-and-htmx-27f61cfaf911
+
+-------------------------------------------------------
+let table = document.querySelector("table");
+
+// Delete second row
+table.deleteRow(1);
+
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLTableElement/deleteRow
+--------------------------------------------------------------------------------
+
+
+<!--https://coderonfleek.medium.com/sending-data-in-htmx-requests-3-ways-4287ead56dbd-->
+<!--        <a href="#" hx-post="{% url 'search_by_phone'   %}"-->
+<!--        hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'-->
+
+** https://adiramadhan17.medium.com/django-crud-with-bootstrap-modal-form-with-htmx-3cbe3830ecfa **
+** https://getbootstrap.com/docs/5.1/components/modal/#varying-modal-content **
+** https://getbootstrap.com/docs/5.1/components/modal/#events
+    Trigger Modal Shown Event	$('#myModal').on('shown.bs.modal', function () { // Do something });
+
+    // Trigger modal display
+$('#myModal').modal('show');
+
+// Trigger modal hide
+$('#myModal').modal('hide');
+
+
+0* htmx confirm  https://htmx.org/examples/confirm/
+
+-1 header for htmx-trigeer:
+https://stackoverflow.com/questions/71999325/htmx-and-django-return-hx-trigger-header-with-json-data-show-error-syntaxerror
+-2 response headers
+https://htmx.org/headers/hx-trigger/
+-3 https://www.better-simple.com/django/2024/08/17/django-tables-htmx-create-table-view/ table22 Django
+-4  django
+
+import functools
+class RespClz:
+   status =""
+   def fail(self) :
+       self.status="Fail"
+   def success(self):
+        self.status="Success"
+   def report(self):
+       print("Response-Status:",self.status)
+
+
+def handle_exception(error_handler):
+    def decorate(func):
+        def call_function(*args, **kwargs):
+            try:
+                func(*args, **kwargs)
+                print("End success func Called .....................")
+                #return ret
+            except Exception as e:
+                print("End Fail func Called .....................")
+                return error_handler(e)
+            return call_function
+
+    return decorate
+
+def err1_hand(e):
+    print("from err1_hand the error is :", str(e))
+    resp = RespClz()
+    resp.fail()
+    return resp
+
+@handle_exception(err1_hand)
+def foo(a, b):
+    a/b
+    resp = RespClz()
+    resp.success()
+    print("End Function foo **")
+    return resp
+
+
+
+@handle_exception(err1_hand)
+def bar(c, d):
+    c.index(d)
+    resp = RespClz()
+    resp.success()
+    print("End Function bar **")
+    return resp
+
+out_resp = RespClz()
+out_resp=foo(10, '2')
+print("Final Response foo=",out_resp.status )
+out_resp=bar('steve_cheese', 'cheese')
+print("Final Response bar=",out_resp.status )
+
+
+##bar('steve', 'cheese')

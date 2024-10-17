@@ -1,0 +1,163 @@
+Example:append to Table new raw:
+https://stackoverflow.com/questions/74024224/listen-for-server-sent-event-sse-with-htmx-and-append-to-a-table
+I made a simple Go backend that renders an html table (from a SQLite database). In the same backend i have an /updates endpoint
+ with server sent events (SSE) when a new row is added to the database.
+I want to use htmx to listen for events and then add a row to the table.
+What is the right pattern to do this? I've read https://htmx.org/extensions/server-sent-events/
+
+the example here is to trigger a GET when an event arrives:
+
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    Manufacturer
+                </th>
+                <th>
+                    Model
+                </th>
+                <th>
+                    Power (KW)
+                </th>
+            </tr>
+        </thead>
+        <tbody id="idTableBody">   *id body
+            <tr id="ModelId_250">
+                <td>Husqvarna</td>
+                <td>701 Supermoto</td>
+                <td>55</td>
+            </tr>
+        </tbody>
+    </table>
+In this example mustache is used as templating engine.
+[ another artical:will parse the event name and then look for the element that has the attribute sse-swap=”eventName”
+https://medium.com/@soverignchriss/real-time-notification-streaming-using-sse-and-htmx-32798b5b2247  see sse-swap = message
+<div class="w-1/4 float-right" hx-ext="sse" sse-connect="{% url 'notification' %}" hx-swap="afterbegin">
+    <div sse-swap="message">
+
+]
+    <div hx-ext="client-side-templates">
+        <div hx-ext="sse" sse-connect="/sse-motorbikes">  --0 div to recv event with action required like hx-target and hx-swap
+                                                             hx-target="#adr-{{ adr.id }}"  hx-swap="outerHTML swap:1s"
+            <div sse-swap="new_bike"                       1-- event name/type
+                 hx-swap="afterbegin"
+                 hx-target="#idTableBody"                   *id body with # for hx-target
+                 mustache-template="idTemplateInsertModel">
+            </div>
+        </div>
+    </div>
+Note: EventName is new_bike
+
+Here is the template:
+
+<template id="idTemplateInsertModel">
+    <tr id="modelId_{{modelId}}">
+        <td>
+            {{manufacturer}}
+        </td>
+        <td>
+            {{model}}
+        </td>
+        <td>
+            {{power}}
+        </td>
+    </tr>
+</template>
+With this sse event from server:
+
+type: "new_bike"        1-- event name/type
+You can do this with client side templates.
+See https://htmx.org/extensions/client-side-templates/
+
+Example:
+
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    Manufacturer
+                </th>
+                <th>
+                    Model
+                </th>
+                <th>
+                    Power (KW)
+                </th>
+            </tr>
+        </thead>
+        <tbody id="idTableBody">
+            <tr id="ModelId_250">
+                <td>Husqvarna</td>
+                <td>701 Supermoto</td>
+                <td>55</td>
+            </tr>
+        </tbody>
+    </table>
+In this example mustache is used as templating engine.
+
+    <div hx-ext="client-side-templates">
+        <div hx-ext="sse" sse-connect="/sse-motorbikes">
+            <div sse-swap="new_bike"                    # the default is message
+
+                 hx-swap="afterbegin"
+                 hx-target="#idTableBody"
+                 mustache-template="idTemplateInsertModel">
+            </div>
+        </div>
+    </div>
+Note: EventName is new_bike
+the default
+
+            <div class="w-1/4 float-right" hx-ext="sse" sse-connect="{% url 'notification' %}" hx-swap="afterbegin">
+    <div sse-swap="message">
+
+    </div>  see https://medium.com/@soverignchriss/real-time-notification-streaming-using-sse-and-htmx-32798b5b2247
+
+
+</div>
+
+Here is the template:
+
+<template id="idTemplateInsertModel">
+    <tr id="modelId_{{modelId}}">
+        <td>
+            {{manufacturer}}
+        </td>
+        <td>
+            {{model}}
+        </td>
+        <td>
+            {{power}}
+        </td>
+    </tr>
+</template>
+With this sse event
+
+type: "new_bike"  this  event the default is message
+data:'{"modelId":208,"manufacturer":"Honda","model":"CRF 1100 L Africa Twin","power":75}' 2-- data to swap
+it should b:
+protocol saying:
+event: userconnect \n\n
+data: {"username": "bobby", "time": "02:33:48"} \n\n
+
+How to sent from Django: https://stackoverflow.com/questions/54326515/how-can-i-make-sse-with-python-django
+
+
+-1 server side:
+import datetime
+import time
+from django.http import StreamingHttpResponse
+
+def stream(request):
+    def event_stream():
+        while True:
+            time.sleep(3)
+            yield 'data: The server time is: %s\n\n' % datetime.datetime.now()
+    return StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+urls
+
+urlpatterns = [
+    path('stream/', views.stream, name='stream')
+]
+
+-2 to setup daphne with Django use :: use::  https://www.photondesigner.com/articles/server-sent-events-daphne  see NGINX

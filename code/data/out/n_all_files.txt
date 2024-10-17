@@ -1,0 +1,900 @@
+====>corName":cor0 with read file name:inp_file99.txt
+cor:0  Run_Number:1
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file99.txt 
+Time:15/10/2024 17:57:02 
+content:WYASQWDJIXHAUMUTGJFMPVKZLLBNPBXPABAUXBXXAYDZSRLJALCRKYZMCPHCMZDQOCHIGG 
+Elapsed Time:0.000124
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00066
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor1 with read file name:inp_file98.txt
+cor:1  Run_Number:1
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file98.txt 
+Time:15/10/2024 17:57:02 
+content:DQCHHDYGHOXSCZHVGOFMZUAICCOHFAEOJDAFEUCGXJWSQMJTSCOTAQJJZPVUFGJOLTMRFF 
+Elapsed Time:0.00013
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00064
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor2 with read file name:inp_file97.txt
+cor:2  Run_Number:1
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file97.txt 
+Time:15/10/2024 17:57:02 
+content:EWRPQAQAKMRELLQNTPNAYZDPPAITGXOQOJRHGKJMXJEJAXHDKLOPPTXGLKCYEOSGVXTCAX 
+Elapsed Time:0.000147
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00061
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor3 with read file name:inp_file96.txt
+cor:3  Run_Number:1
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file96.txt 
+Time:15/10/2024 17:57:02 
+content:PMMLXQBKIDNQOYAJNZNJTZEVTFYKIRDJWWHEYKYGLSUVGIQWBSPUHUVYMSCGRJPHTWAOJS 
+Elapsed Time:0.000131
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00016
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor4 with read file name:inp_file95.txt
+cor:4  Run_Number:1
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file95.txt 
+Time:15/10/2024 17:57:02 
+content:TPTZPQVYXVCTYYSGZUHRMVNYBCRKHFBVFOFHVDRFRTPREOUFVOEZYWVTTQWVJORRDJZXHY 
+Elapsed Time:0.000126
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00071
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor5 with read file name:inp_file94.txt
+cor:5  Run_Number:1
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file94.txt 
+Time:15/10/2024 17:57:02 
+content:ODSGLWLYNPXHPJPCVUGZZLTIXINJYEYHGWAGPDKGUXLKQFZRZCHJOXJYNCVPFYTCYYAXJI 
+Elapsed Time:0.000141
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00058
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor6 with read file name:inp_file93.txt
+cor:6  Run_Number:1
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file93.txt 
+Time:15/10/2024 17:57:02 
+content:RUEJTBLJVZJWXCRFMMDBPMVGOJUXETTDUKOHYQVMOHVJWZYLTVFEAPQXRGDZFSWBQOHQSB 
+Elapsed Time:0.000146
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.0006
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor7 with read file name:inp_file92.txt
+cor:7  Run_Number:1
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file92.txt 
+Time:15/10/2024 17:57:02 
+content:NFPUQWUFYRLOOUEGJOGCMBJYEWYUPBEEDGSKNESDPTLMRCGVSWPEUIFIISZZJLRBOHVOYH 
+Elapsed Time:0.000146
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00061
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor8 with read file name:inp_file91.txt
+cor:8  Run_Number:1
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file91.txt 
+Time:15/10/2024 17:57:02 
+content:KEAMVYDFWDNKRBOGWXBXKKPOKRYOZKFSNHPLSQDERJBNWJAKBMWPGMBVRCZVLDVXGSAEVI 
+Elapsed Time:0.000134
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00058
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor9 with read file name:inp_file90.txt
+cor:9  Run_Number:1
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file90.txt 
+Time:15/10/2024 17:57:02 
+content:RRMRAXINZSZZMDNXZDTDRBMCRJXHIRGLXINHIPNRTRHRXJWTQPHXOQQPHYQABMEBMAYQZH 
+Elapsed Time:0.000132
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00057
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor0 with read file name:inp_file9.txt
+cor:0  Run_Number:2
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file9.txt 
+Time:15/10/2024 17:57:02 
+content:FXRYHXAXNVOMWLMLFCSKURGUMHJGTCZJDUPWZAPCIFGYYXAGIDCOPDCRXLMCZSIODOEYEU 
+Elapsed Time:0.000141
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00075
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor2 with read file name:inp_file89.txt
+cor:2  Run_Number:2
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file89.txt 
+Time:15/10/2024 17:57:02 
+content:YXTXTUIBYAZPHXUHLTNDGXZUHTLCUFYHNSIUCXETSNVPJSYGJSBGXVNIPOVSKPISZSFAQQ 
+Elapsed Time:0.000129
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00074
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor6 with read file name:inp_file88.txt
+cor:6  Run_Number:2
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file88.txt 
+Time:15/10/2024 17:57:02 
+content:HUWIVANWUCDNDEBJCJBIGOXAZNUBTYSGVNQMIDJFQXKMKKXPUTVTJUXGYHGTRNHCQXBNFO 
+Elapsed Time:0.000136
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00072
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor9 with read file name:inp_file87.txt
+cor:9  Run_Number:2
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file87.txt 
+Time:15/10/2024 17:57:02 
+content:TRYBUIVLGJSJONUHCPGLNHIASQDYQJJODHBOKYKPIJQABLUSBQWCCTGHYOAZUKSRMIUHCY 
+Elapsed Time:0.000149
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00069
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor8 with read file name:inp_file86.txt
+cor:8  Run_Number:2
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file86.txt 
+Time:15/10/2024 17:57:02 
+content:YBBNKNYUVUQMPGTULTMMQICIWHXYMYRYJOTCHEQBVPKIDIAPRYGWJTIDYEDRTESMROTWFC 
+Elapsed Time:0.000145
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00068
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor5 with read file name:inp_file85.txt
+cor:5  Run_Number:2
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file85.txt 
+Time:15/10/2024 17:57:02 
+content:LUHSGKGBCRFVBUQIIATTKVTHLDCPWEKQVRQYNEZZQIQNEBDVCEGUNSUNXFJAIPWHIRZYAB 
+Elapsed Time:0.000173
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.0007
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor7 with read file name:inp_file84.txt
+cor:7  Run_Number:2
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file84.txt 
+Time:15/10/2024 17:57:02 
+content:HTZPPYMIAKVWTSNBVRICCHSLISJZRORJUJHYXTZPTKIHNPJDOODQQUUNPGZOSPIWZOTDDI 
+Elapsed Time:0.000134
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00067
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor4 with read file name:inp_file83.txt
+cor:4  Run_Number:2
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file83.txt 
+Time:15/10/2024 17:57:02 
+content:TPSBZHILGOTPEVVUZDVBVCAPAFZKGVYZSLIFTCSQAZNVNAZYXDWPRQWPSVCJUKWEXAVZOV 
+Elapsed Time:0.000145
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00066
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor1 with read file name:inp_file82.txt
+cor:1  Run_Number:2
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file82.txt 
+Time:15/10/2024 17:57:02 
+content:UQNFTWDSBFFIVARFSNPTRYTSKWXIJUOVDJOEXYDLPNHQYQJVQEYGHBWDHYVDOUJXNTEJHE 
+Elapsed Time:0.000206
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00069
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor3 with read file name:inp_file81.txt
+cor:3  Run_Number:2
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file81.txt 
+Time:15/10/2024 17:57:02 
+content:KMFJGWDUJKZCSXUXFYUKFCDEXSQXJBMZOFDYNNUMKWAJWADUWYAPRZHKVMFGQNZVNBRABT 
+Elapsed Time:0.000173
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00069
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor0 with read file name:inp_file80.txt
+cor:0  Run_Number:3
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file80.txt 
+Time:15/10/2024 17:57:02 
+content:BAHEDQILQDDOBKLIBNBSOEDTCHNPFJBNTDKSWSPYZLFQRZBCVNVWXNYYBEIOSZBDOLJFPG 
+Elapsed Time:0.000218
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00053
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor6 with read file name:inp_file8.txt
+cor:6  Run_Number:3
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file8.txt 
+Time:15/10/2024 17:57:02 
+content:XMKOPUDAUIZRPKZLZWJFYUAJEEAAMTJSXFXZQIMRWDHJNGOJEOGQBZWZMSFWTCALQFJQJA 
+Elapsed Time:0.000158
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00043
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor7 with read file name:inp_file79.txt
+cor:7  Run_Number:3
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file79.txt 
+Time:15/10/2024 17:57:02 
+content:VKORVEPODCZSGSQHMXFBKWUZVBHYMEGAAXBOFTHMFGLXCGAAZQNHRPRLUFWPTSNQHWZZFA 
+Elapsed Time:0.000172
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00036
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor3 with read file name:inp_file78.txt
+cor:3  Run_Number:3
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file78.txt 
+Time:15/10/2024 17:57:02 
+content:XXYTKULOROKNKKJMYACSSJOGLMROKKEOIGVAVGHILGYPKHQLCOJHMZGERUQMOGIJKQPIYI 
+Elapsed Time:0.000143
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.0003
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor1 with read file name:inp_file77.txt
+cor:1  Run_Number:3
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file77.txt 
+Time:15/10/2024 17:57:02 
+content:DIOOQSICGIKYFJAEPBNYAYYXGWXRMOVVCURCFUKPMMDSYNZETZIURJOMGZVPVIQCETEINV 
+Elapsed Time:0.000149
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00041
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor5 with read file name:inp_file76.txt
+cor:5  Run_Number:3
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file76.txt 
+Time:15/10/2024 17:57:02 
+content:GOPEBEZXEKNIYWFIBEBQZGHUBDFRLNIZAYMJBTBMHCYZJWYCHITVYEGQYAQNTIIACMNPJX 
+Elapsed Time:0.000158
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00033
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor4 with read file name:inp_file75.txt
+cor:4  Run_Number:3
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file75.txt 
+Time:15/10/2024 17:57:02 
+content:VQECYPSATLFXVGLNDETIZSXBZIJLEWKWGTSKIUKZSTZDMOYHGTQZLOSVUCXIOGTSIBEOMO 
+Elapsed Time:0.000151
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00032
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor8 with read file name:inp_file74.txt
+cor:8  Run_Number:3
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file74.txt 
+Time:15/10/2024 17:57:02 
+content:ESLWXKXDJFEPOPMFXVLVKTENHBPEESWEOFQTCVYKARPFOFGGFHYNYPSWIMKOCZWMMSFTXO 
+Elapsed Time:0.00016
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00033
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor2 with read file name:inp_file73.txt
+cor:2  Run_Number:3
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file73.txt 
+Time:15/10/2024 17:57:02 
+content:SGWLONBFEEQOEGRMOBVNWQLBHJYXGDNVJUTOQBOWBBNWVPFHLSHIQDFAGMHEKDSNEXYWEV 
+Elapsed Time:0.000176
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.0003
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor9 with read file name:inp_file72.txt
+cor:9  Run_Number:3
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file72.txt 
+Time:15/10/2024 17:57:02 
+content:ZGPJIDLHDVPSQRIANENRUUWSSHXPXJEQTYMIVNUYZRSSOFNRFZUHHMFGBWVKAYUKPQEUME 
+Elapsed Time:0.000287
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00029
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor0 with read file name:inp_file71.txt
+cor:0  Run_Number:4
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file71.txt 
+Time:15/10/2024 17:57:02 
+content:JXSXXMQEFYUMBKNWUZVVSOKBMSHSMXGOUBDUMYARVOOKSVSXDWCSOECHYFBFPNTIDXDRMH 
+Elapsed Time:0.00018
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00097
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor7 with read file name:inp_file70.txt
+cor:7  Run_Number:4
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file70.txt 
+Time:15/10/2024 17:57:02 
+content:TXGMYNXQKXUIPOXGPVHCHAVCNHAWUMQMOMINOLJYELURJRDVQFSHJGJUYCRJJXBSSKMQLV 
+Elapsed Time:0.000197
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00085
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor4 with read file name:inp_file7.txt
+cor:4  Run_Number:4
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file7.txt 
+Time:15/10/2024 17:57:02 
+content:ODCWAVVCATZTATSMQBZDOAQBXXCFMQLHGFQITQHGJIHYWVPGZIQGXIIIXGKSLWCIQKDOAE 
+Elapsed Time:0.000152
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00088
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor9 with read file name:inp_file69.txt
+cor:9  Run_Number:4
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file69.txt 
+Time:15/10/2024 17:57:02 
+content:WPJKFQULQNTKPDQCGVQDZONRMJWRZHTQNVGUATTNACDSLRAXZJOWKCQAGRYGXZNPCEJWPH 
+Elapsed Time:0.000317
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00092
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor2 with read file name:inp_file68.txt
+cor:2  Run_Number:4
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file68.txt 
+Time:15/10/2024 17:57:02 
+content:LJEMELGHVLXSOUZZMLINBURNVKDKXNBIZGQYJNMCDDGZVKUCBLFAQZHVJYZCECCHKLGPCF 
+Elapsed Time:0.000143
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00089
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor5 with read file name:inp_file67.txt
+cor:5  Run_Number:4
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file67.txt 
+Time:15/10/2024 17:57:02 
+content:AFBIPQQTSZXJIHIFNASHPCXCHNIDJRKIRQTXGLRRAMNXSQGTCHMEJSBDWMFHCUXOKLYXNC 
+Elapsed Time:0.00015
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00084
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor8 with read file name:inp_file66.txt
+cor:8  Run_Number:4
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file66.txt 
+Time:15/10/2024 17:57:02 
+content:VWDNKQSNXLSCIRVTBQRTOPZCTSWLKXZVYPPBJDCBWNTARNVVMCAHUIAMSZZXSDXRXEGMIE 
+Elapsed Time:0.000142
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00085
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor1 with read file name:inp_file65.txt
+cor:1  Run_Number:4
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file65.txt 
+Time:15/10/2024 17:57:02 
+content:YCHJVIWNJGZUTGVVKKHVBHMTBUPSKOHBSLEFMCEBAMBIRYFFVIBMRNXLRZGDGDNHLESXTF 
+Elapsed Time:0.000147
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.0009
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor6 with read file name:inp_file64.txt
+cor:6  Run_Number:4
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file64.txt 
+Time:15/10/2024 17:57:02 
+content:JUUXBDVCTYXDJJENDGQKVAKEXLVIVPFOBHUKBIAZEGVTVMWUWWECGZFSZUDFDXNMXPQOWC 
+Elapsed Time:0.000144
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00038
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor3 with read file name:inp_file63.txt
+cor:3  Run_Number:4
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file63.txt 
+Time:15/10/2024 17:57:02 
+content:NOYOVGVCAHCPXJHUBKBGKGHNBHIIMOXPLSFQWEIREZVOIIAHYVTCCNDLEPXBBNQSLSEEYP 
+Elapsed Time:0.000152
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00081
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor0 with read file name:inp_file62.txt
+cor:0  Run_Number:5
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file62.txt 
+Time:15/10/2024 17:57:02 
+content:XHXOEYYYUYXNLXJCULMTZVUHRSUJTSCQBSUTBQEZQUDLJOORDAAPNOKVBPICKUEPUZSPUF 
+Elapsed Time:0.000152
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00086
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor4 with read file name:inp_file61.txt
+cor:4  Run_Number:5
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file61.txt 
+Time:15/10/2024 17:57:02 
+content:VBEXXKGFXBZDESGVMILIXCWCFXWXVKEQROMVQNHOBOXNKLLNUVIJKFCZMMHXOINQHSVIAL 
+Elapsed Time:0.000148
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00081
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor8 with read file name:inp_file60.txt
+cor:8  Run_Number:5
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file60.txt 
+Time:15/10/2024 17:57:02 
+content:HEALHWZEUNNPXXMSYXIINOECSHGAHOGZNHOFOAKRFOIWPUQGBXUGRLSBDUGIRHWGVNOPZL 
+Elapsed Time:0.000148
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00075
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor5 with read file name:inp_file6.txt
+cor:5  Run_Number:5
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file6.txt 
+Time:15/10/2024 17:57:02 
+content:EJNCRFYSFNZIMDAZGCTSBLFKEIZWOXEQOZDIKTRJJRCSCGWPYINIDDMTKMQWUCXAPUSJMC 
+Elapsed Time:0.000147
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00084
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor6 with read file name:inp_file59.txt
+cor:6  Run_Number:5
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file59.txt 
+Time:15/10/2024 17:57:02 
+content:TWPIFNXZHPWSTCLDMUTJSOWHRIHWBNJYORMCBHFTZZLZQHVAVZPZWEPIMMAHEQPZRUHLJM 
+Elapsed Time:0.000153
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00077
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor1 with read file name:inp_file58.txt
+cor:1  Run_Number:5
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file58.txt 
+Time:15/10/2024 17:57:02 
+content:GGYVETSGKGUJIIUYJZJMYERTTSVFBSJDSHXJHJOTOKLXUSVXQYJULMQEVYTHTXZSEODSYW 
+Elapsed Time:0.000156
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00076
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor7 with read file name:inp_file57.txt
+cor:7  Run_Number:5
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file57.txt 
+Time:15/10/2024 17:57:02 
+content:PIEIDVNVBTITCRNGAIZFWUNWOWEQUWIXDUMEZOBDIMKVJOUZOIFZRGXKWUDTVBBMVYHKGI 
+Elapsed Time:0.000147
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00071
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor9 with read file name:inp_file56.txt
+cor:9  Run_Number:5
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file56.txt 
+Time:15/10/2024 17:57:02 
+content:QRVIQBFHVQFTWQJBXCAQAXYAPUQPIZZHBDNVQRRSDVCWBWIZOGPEZBIMKBDYDUYYNWOGAD 
+Elapsed Time:0.000154
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.0007
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor2 with read file name:inp_file55.txt
+cor:2  Run_Number:5
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file55.txt 
+Time:15/10/2024 17:57:02 
+content:XZIYCSFOSWLQEJPNHMBSCMGUZCJESBCYIMVZQKZMNNLIESMRIFAEVKWJXJKJICARWLJKKM 
+Elapsed Time:0.00017
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00075
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor3 with read file name:inp_file54.txt
+cor:3  Run_Number:5
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file54.txt 
+Time:15/10/2024 17:57:02 
+content:OADJAMPOQGHGHYTPXJSAVBXYMTWDCURASSFVEZEAAVARCDERNQCBBMGALSOUMKKWRKXMKJ 
+Elapsed Time:0.000247
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00074
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor0 with read file name:inp_file53.txt
+cor:0  Run_Number:6
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file53.txt 
+Time:15/10/2024 17:57:02 
+content:WAOJHLCEMTUBJEUQVKXYSKGJHRFMMUMMPGPCRFBMQVRBSJZKNUGHDQSPRQKONMHPSSPMVM 
+Elapsed Time:0.000164
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00086
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor8 with read file name:inp_file52.txt
+cor:8  Run_Number:6
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file52.txt 
+Time:15/10/2024 17:57:02 
+content:HFOGIMXEGGMANICQMTXNHEJRBBXAWZVTKITBLFVQSZYPVGNRHGAEXYGDUHSLJQQFCNUZWH 
+Elapsed Time:0.000151
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00036
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor7 with read file name:inp_file51.txt
+cor:7  Run_Number:6
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file51.txt 
+Time:15/10/2024 17:57:02 
+content:XADCFYQNYSFZVMIWAZKTLDALOLRQMTBVJOMVKMGKVUWWZJQZXRAMWOIDHJAGLVUFTBGQKO 
+Elapsed Time:0.000148
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00034
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor3 with read file name:inp_file50.txt
+cor:3  Run_Number:6
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file50.txt 
+Time:15/10/2024 17:57:02 
+content:WCJCXJDPSZJDJJTFMPCYEICKHCRNTXCABNHLYIZTQYSQKZPBBWDGXCAOBMSGHAMHFXNESR 
+Elapsed Time:0.000151
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00045
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor2 with read file name:inp_file5.txt
+cor:2  Run_Number:6
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file5.txt 
+Time:15/10/2024 17:57:02 
+content:HKAMZGSYEHLMLWQYBNQOQIRZRWYSZVSEFERMTZXPXXJIRYTTLVMMRORJOVIIVNRXCSACAI 
+Elapsed Time:0.000161
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00046
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor1 with read file name:inp_file49.txt
+cor:1  Run_Number:6
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file49.txt 
+Time:15/10/2024 17:57:02 
+content:XLGPCSBVFUBDLOSJNSAXPOCJKUPWLDXUMJXYSVLSTQDSRUMRMNRPDWBOACNCRYEUINIWHW 
+Elapsed Time:0.000155
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.0005
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor9 with read file name:inp_file48.txt
+cor:9  Run_Number:6
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file48.txt 
+Time:15/10/2024 17:57:02 
+content:UHDQIZFGWLDUVEUQYAECNIYYJRPFCTHNSVYIIDOPJAVOWMJXRLOZTTVOYBWQELJSLMNZLU 
+Elapsed Time:0.000153
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00043
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor6 with read file name:inp_file47.txt
+cor:6  Run_Number:6
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file47.txt 
+Time:15/10/2024 17:57:02 
+content:JIVKRKDMKLQBFHDMBTVOKLVZALDKWACXAVNSRCZLFHJBQPTZHIQIHBUWXZYTZVHJCHJZXT 
+Elapsed Time:0.000159
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00031
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor4 with read file name:inp_file46.txt
+cor:4  Run_Number:6
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file46.txt 
+Time:15/10/2024 17:57:02 
+content:LKVVHAFJTOZFQWXRSLPNYSFVVABXDGBPKEOPVHOIFVPQOBRWSPVNLWJNKFMLIQTLXAHQSL 
+Elapsed Time:0.000147
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00035
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor5 with read file name:inp_file45.txt
+cor:5  Run_Number:6
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file45.txt 
+Time:15/10/2024 17:57:02 
+content:QOBNAJZKCCOGZDMAMQJWZOFLGMVBBMIWSEMIZMNSMNHYFRRNHGMZHVJJLSBMZAEMBUHLWR 
+Elapsed Time:0.00015
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00033
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor0 with read file name:inp_file44.txt
+cor:0  Run_Number:7
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file44.txt 
+Time:15/10/2024 17:57:02 
+content:UXRFAALOPQFOYDUZDCFHLHOCDJLVLBVECGHHTTUEBHTARUMVISKIWPGHCRVQAEWCXWFAXU 
+Elapsed Time:0.000155
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.0005
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor7 with read file name:inp_file43.txt
+cor:7  Run_Number:7
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file43.txt 
+Time:15/10/2024 17:57:02 
+content:KOOYDZABPDFNYJBAVPNLZDUDKRTLLXENIPVRWVTZFVNUPKAMTCAUTEJNDNWXRVPYALXVSB 
+Elapsed Time:0.000152
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00035
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor9 with read file name:inp_file42.txt
+cor:9  Run_Number:7
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file42.txt 
+Time:15/10/2024 17:57:02 
+content:OLDOZIOXLWWSFUETLNDMKYOWWDMDWRPMGCHQTAZAQLSESNQSGDKNFXEHPAQIUVSGJOECDN 
+Elapsed Time:0.000164
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00088
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor5 with read file name:inp_file41.txt
+cor:5  Run_Number:7
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file41.txt 
+Time:15/10/2024 17:57:02 
+content:ZLWFDYGTWJJNJPFSQTDORBEFNZUKIGBSYHDNSIJBTYXWEDZHQHSLJYBKFLOEWEQLXOMAMJ 
+Elapsed Time:0.000162
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00081
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor4 with read file name:inp_file40.txt
+cor:4  Run_Number:7
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file40.txt 
+Time:15/10/2024 17:57:02 
+content:POYNBMPSFOTFOOBOTDAGEMYHAZODXWCWVTZTJBQBYPEKHXQFPSAMQSUHXXHRWRTMHIDPWK 
+Elapsed Time:0.000159
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.0009
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor1 with read file name:inp_file4.txt
+cor:1  Run_Number:7
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file4.txt 
+Time:15/10/2024 17:57:02 
+content:TWQCGDSQHJBYEPOMXBCGARHPSYBTFQJWVVWRNOYABJJNQKRRFMDTENZFUAYFFEBSPRMYPM 
+Elapsed Time:0.000182
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00092
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor6 with read file name:inp_file39.txt
+cor:6  Run_Number:7
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file39.txt 
+Time:15/10/2024 17:57:02 
+content:FUYLYFXAZSHFNMIMWRNIARPAOIBIRKLCRPPGDAYCUQOWHNSHMPUAGFPGIBDISFGLXKQKBA 
+Elapsed Time:0.000156
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00083
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor2 with read file name:inp_file38.txt
+cor:2  Run_Number:7
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file38.txt 
+Time:15/10/2024 17:57:02 
+content:CBPMHFRGTYRSGYRXNPJUBSCMBTKDVXSUEVTANCVSBMJSEPNXGPDYNIDXUPFSCFUBMRYKIZ 
+Elapsed Time:0.000167
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.0008
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor8 with read file name:inp_file37.txt
+cor:8  Run_Number:7
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file37.txt 
+Time:15/10/2024 17:57:02 
+content:BBIQDFBRWAJJRGUVQQDKLRMAGMMFTPXUCXABKQYWHPQLDYFXSFRFJJUPRNQXHCVSIYMXLG 
+Elapsed Time:0.000192
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00075
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor3 with read file name:inp_file36.txt
+cor:3  Run_Number:7
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file36.txt 
+Time:15/10/2024 17:57:02 
+content:YCLGZDLTMFQCDFAAYCOFUEHSWVRLKDOAPOYVRNRTCDXSTEOELNDDSCQXTKAFSCPGJPUDFN 
+Elapsed Time:0.000264
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00075
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor0 with read file name:inp_file35.txt
+cor:0  Run_Number:8
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file35.txt 
+Time:15/10/2024 17:57:02 
+content:SHTKXSBWNBOPUBYWBPSIUIMGPECXRHIGDHTOVSXNCLNFOABUAVWVZIXBNGCPKDHKOTCDCS 
+Elapsed Time:0.000218
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00065
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor9 with read file name:inp_file34.txt
+cor:9  Run_Number:8
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file34.txt 
+Time:15/10/2024 17:57:02 
+content:WFBUHADCTAHLHYDQZBRUCHWTWJECSMLLIMZHZWTUSWBXCQBPEOTBLLBWVXNMNZPOTKGLNK 
+Elapsed Time:0.000135
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00046
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor6 with read file name:inp_file33.txt
+cor:6  Run_Number:8
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file33.txt 
+Time:15/10/2024 17:57:02 
+content:IQCWOOBBXRDLYGGCVHUVYGQBFMLETGXGKBKGZUNEESBGNPEWQJJENTDAOWXNVDCDSDNMAW 
+Elapsed Time:0.00014
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00049
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor3 with read file name:inp_file32.txt
+cor:3  Run_Number:8
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file32.txt 
+Time:15/10/2024 17:57:02 
+content:TTUAZSKOHFPKJLTSXQBAFBIJECYZBUWKNMUFYHNYWGHDOVHNFZFTMWKRFDXWEORFLVVQQU 
+Elapsed Time:0.00014
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00039
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor8 with read file name:inp_file31.txt
+cor:8  Run_Number:8
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file31.txt 
+Time:15/10/2024 17:57:02 
+content:HGETEYZAJBYOKONZJMCVVPKFOBWUGTGGDNKNPSSRGUKOFOSLJHVRHVVSRVPYOAQDFAXBOG 
+Elapsed Time:0.000138
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00036
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor1 with read file name:inp_file30.txt
+cor:1  Run_Number:8
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file30.txt 
+Time:15/10/2024 17:57:02 
+content:JYPGXHESPZEFIOXVFQGLLDFDFUXHKBPXWRLGPPQIMVSHCHFBDDSWWPDBHFOFAZRYFFDJNF 
+Elapsed Time:0.000139
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00031
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor2 with read file name:inp_file3.txt
+cor:2  Run_Number:8
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file3.txt 
+Time:15/10/2024 17:57:02 
+content:HHRDQDMXTGWSDEEYMTDPUPVGKPEMDUZLWSHLXNIFLLFUMGXBDDIOYJQEOVCCGYKVALNMDT 
+Elapsed Time:0.001472
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00033
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor4 with read file name:inp_file29.txt
+cor:4  Run_Number:8
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file29.txt 
+Time:15/10/2024 17:57:02 
+content:VTHIMDACPLTFWMECRCJHCFERZVDBFFCBKNCZWVUQZHTQSTVCGWGTZPLQQWNJLJZJCJBLDU 
+Elapsed Time:0.000147
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00031
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor7 with read file name:inp_file28.txt
+cor:7  Run_Number:8
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file28.txt 
+Time:15/10/2024 17:57:02 
+content:MYGONDCUHRHOHCKYJTECYNKIUIOPOSHROANFAHNXAPQECZVVCEQVUJFGWCZFSNDEUNZMRY 
+Elapsed Time:0.000146
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00035
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor5 with read file name:inp_file27.txt
+cor:5  Run_Number:8
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file27.txt 
+Time:15/10/2024 17:57:02 
+content:ACFEYNTEFOKUQSCGTFXXYBNLYCTDHNAZZXABPMKJFKBWCUZDWDIDNOFFEQXGZFKCFHSLOP 
+Elapsed Time:0.000137
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00031
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor0 with read file name:inp_file26.txt
+cor:0  Run_Number:9
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file26.txt 
+Time:15/10/2024 17:57:02 
+content:TTQJBUCBPSLHVQBXITYVZKLNLELLDJCBUPIXEGDCAWUPPELDRMEHCPCRMYFEXWJFRVVWIO 
+Elapsed Time:0.000139
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00056
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor6 with read file name:inp_file25.txt
+cor:6  Run_Number:9
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file25.txt 
+Time:15/10/2024 17:57:02 
+content:TZXBKXKCUGWQXJRRHXRPWPAZWGLDAWZQYLOPVZMJFPRZDZWGWXAMEKRGTUWUQRHVTRDMRD 
+Elapsed Time:0.000138
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00089
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor2 with read file name:inp_file24.txt
+cor:2  Run_Number:9
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file24.txt 
+Time:15/10/2024 17:57:02 
+content:YPKEWFPWAPGJFFNVOCMDZZPUSAQBXSKYEIWNLGNPBXBIWBCUHBQSYRRUQBJRVJDXEAIFEZ 
+Elapsed Time:0.000139
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00053
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor5 with read file name:inp_file23.txt
+cor:5  Run_Number:9
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file23.txt 
+Time:15/10/2024 17:57:02 
+content:UYEJWSYSWNCLNQMFPJLNWBUUYFHCFVURCMDGDBVUUXKEZFROZUVCHWUZVWXNMRMZFCXOYQ 
+Elapsed Time:0.000146
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00082
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor7 with read file name:inp_file22.txt
+cor:7  Run_Number:9
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file22.txt 
+Time:15/10/2024 17:57:02 
+content:XCGBLLHPAEWHUKHIFOTOTTDCZOWUECWTBVUFHYAIFRRIAHJSJXXWRFDJQEHVFBXROYHIVI 
+Elapsed Time:0.000142
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00081
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor1 with read file name:inp_file21.txt
+cor:1  Run_Number:9
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file21.txt 
+Time:15/10/2024 17:57:02 
+content:JIHBIYLMCSWPGITJXYMGROGJEKAMZQPOWPWUPKUNFHHWHMZNPGCIQITPHVPIPPPESWTSNX 
+Elapsed Time:0.00014
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00088
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor4 with read file name:inp_file20.txt
+cor:4  Run_Number:9
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file20.txt 
+Time:15/10/2024 17:57:02 
+content:CDVZXPITOZSRNAERNWTEPOEDHIERYXSZXYDSLPMWFMGQHGNZWBDUENYYRKOVARMANZMEHN 
+Elapsed Time:0.000146
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.0008
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor8 with read file name:inp_file2.txt
+cor:8  Run_Number:9
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file2.txt 
+Time:15/10/2024 17:57:02 
+content:EYXVREQHCNYENXSEHUVDXCQVFDDRIDQWZOQQGEKNYROVFSAJDQSHXOXITNQOVKCZNUERFV 
+Elapsed Time:0.000186
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00084
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor9 with read file name:inp_file19.txt
+cor:9  Run_Number:9
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file19.txt 
+Time:15/10/2024 17:57:02 
+content:ICSLCBIMSACQRBVZAJIKLVKBPNDOLIFZSDTUNSMWDPDWSGIVPYMIIDSAGDXYIRZQTXEYLL 
+Elapsed Time:0.000163
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00077
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor3 with read file name:inp_file18.txt
+cor:3  Run_Number:9
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file18.txt 
+Time:15/10/2024 17:57:02 
+content:RVFAZGYCDQLZBAVXRWJIRGZUHYLSUCEOBTQPGJNLBZKYOSGFLZOYECIWDRJIZMCYEYNZGW 
+Elapsed Time:0.000166
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00078
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor0 with read file name:inp_file17.txt
+cor:0  Run_Number:10
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file17.txt 
+Time:15/10/2024 17:57:02 
+content:ZFCPTWOSAZQPEGIESMUQBFCGJOAFEZNNVYKPUAQZEUNOSYQSAGNJRBESKITGCXNZTIQSUM 
+Elapsed Time:0.000237
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00041
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor2 with read file name:inp_file16.txt
+cor:2  Run_Number:10
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file16.txt 
+Time:15/10/2024 17:57:02 
+content:ZKRQHXMFSDGGIMTFPAIMOLFBGXLLPMBGFBLWNJTKQKGIXNETOVNFEOMCJDGUFVUKBEVCPD 
+Elapsed Time:0.000135
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00029
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor4 with read file name:inp_file15.txt
+cor:4  Run_Number:10
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file15.txt 
+Time:15/10/2024 17:57:02 
+content:AFCAQEZXEXAAAADUHGKGXEJJKSUPTCZAANZJBEAEAFPLCMIQHJQMOXVGOXWCIOGCCNVCVI 
+Elapsed Time:0.000137
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00029
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor3 with read file name:inp_file14.txt
+cor:3  Run_Number:10
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file14.txt 
+Time:15/10/2024 17:57:02 
+content:BHHQJOXKVYKXQVFDMHYZEDTISAELRUKBZBLHYQGCNGWLIZKURHXUQELDHBSEQMNTCAAVGC 
+Elapsed Time:0.000141
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00024
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor9 with read file name:inp_file13.txt
+cor:9  Run_Number:10
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file13.txt 
+Time:15/10/2024 17:57:02 
+content:PJHCYMGYQJNAVWBQHJCKQXIZAAQVTEWIIYFDXKTDGTSLPTPYJOSFWRJVSEUZPNRPSBUSMI 
+Elapsed Time:0.000144
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00035
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor1 with read file name:inp_file12.txt
+cor:1  Run_Number:10
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file12.txt 
+Time:15/10/2024 17:57:02 
+content:MKEUOFAFAXZHTULLLLXWUISDDUHXURLULBUYAKILFUWFEQMVJPPPRGHIBLRBTAZCTINNOA 
+Elapsed Time:0.000151
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00079
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor8 with read file name:inp_file11.txt
+cor:8  Run_Number:10
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file11.txt 
+Time:15/10/2024 17:57:02 
+content:ZFVGRXPLSCZWPMMIJUYATPSHLZBQJGZZERIRQMXUTXRBKMLPHVDPXHPHLMASLBWIKRCUFP 
+Elapsed Time:0.000144
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00081
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor7 with read file name:inp_file10.txt
+cor:7  Run_Number:10
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file10.txt 
+Time:15/10/2024 17:57:02 
+content:QNRHYJNMQEERMTZTVUMEYCSRIWYEBDGOVHWHLBDADODXBPYTBDFWSEFXCRXXXSNIQGAFQW 
+Elapsed Time:0.000155
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.00088
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor6 with read file name:inp_file1.txt
+cor:6  Run_Number:10
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file1.txt 
+Time:15/10/2024 17:57:02 
+content:JCSJDVADEGYOWOGTFESPTJYZOUAIFDVGZJIAIUQXAHLTGTJGTOYKNGLHIQFAFUSUXEVSUV 
+Elapsed Time:0.000222
+Read_Elapsed Time:0.0
+write_Elapsed Time:0.00038
+End---------------------------------------------------------------------------------------------------------file
+====>corName":cor5 with read file name:inp_file0.txt
+cor:5  Run_Number:10
+FileName:C:/Users/Public/py_dev/multi_coros/bulktasks/code/data/in/inp_file0.txt 
+Time:15/10/2024 17:57:02 
+content:TWACSLCHZGKETFSLKKKABXUIUBGBDXCBSZDDQBFRJAJYQLGONJDESIBRIUWXJTQXUSUFQT 
+Elapsed Time:0.000642
+Read_Elapsed Time:0.001
+write_Elapsed Time:0.0008
+End---------------------------------------------------------------------------------------------------------file
