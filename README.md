@@ -7,7 +7,8 @@ For hundreds and thousands of concurrency co-routines, there are two different t
 #2 Use limited m-co-routine and keep using them all the time. When one worker/co-routine completes the job, proceed with
 the same co-routine, and run the next job.
 
-For concurrency level technique #1, the level is n or zero. When n is completed, the next n starts with a new co-routines.
+For concurrency level technique #1:the level is n or zero. When n is completed, the next n starts with a new co-routines.
+
 Concurrency level technique #2: the level all the time is n.
 For reality, both techniques respect the fact we cannot run thousands of co-routines in one shot, especially for network connections or DB transactions.
 To get the best performance, both techniques should be tested for the application and the better selected.
