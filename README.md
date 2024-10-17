@@ -3,6 +3,7 @@ Python Co-Routine Concurrency Practice different approaches:
 For hundreds and thousands of concurrency co-routines, there are two different techniques that can be tailored for applications that require parallel processing.
 
 #1 Gather: push n co-routine with fork and joint pattern, which is available in Python [asyncio.gather].
+
 #2 Use limited m-Co-Routine and keep using them all the time. When one worker/co-routine completes the job, proceed with
 the same co-routine, and run the next job.
 
